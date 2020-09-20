@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is Sajeeb Roy Chowdhury, and I am a recent college graduate with a degree in Computer Science and Computational Mathematics. My interests include applying machine learning techniques to algorithmic and structured data problems such as network graphs, sequences, images, and time-series data. I am also interested in the design of distributed systems, and cache-friendly, efficient, and scalable data structures and algorithms that reduce program runtime. Of particular interest are applications of these ideas to software engineering, compiler design, high-performance computing, data science, bioinformatics, natural language processing (NLP), anomaly detection, computer vision, and autonomous vehicles.
+
+
+### Work Experience
+
+
 <!--
 **RoySRC/RoySRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
