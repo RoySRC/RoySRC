@@ -14,6 +14,8 @@ I was primarily involved in implementing new and optimizing existing group theor
 
 ### Languages and Tools
 
+*NOTE: Top languages do not indicate my skill level or anything similar to that, it's a github metric of which languages I have the most code on github.*
+
 ![Sajeeb's github stats](https://github-readme-stats.vercel.app/api?username=RoySRC&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoySRC&langs_count=88&layout=compact&theme=radical)
 
