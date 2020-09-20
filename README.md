@@ -5,6 +5,18 @@ My Name is Sajeeb Roy Chowdhury, and I am a recent college graduate with a degre
 
 ### Work Experience
 
+#### Teaching Assistant
+I assisted in teaching the Operating Systems course at Colorado State University. I helped write class assignments, held help sessions and office hours and assisted with class logistics. The assignments ranged from writing scheduling algorithms to multi-process and multi-threaded programs. I was also involved in building an automated grading system to grade student submissions using error carried forward logic.
+
+#### Research Assistant - Orbiter Computer Algebra System
+I was primarily involved in implementing new and optimizing existing group theory algorithms for the Orbiter computer algebra system. I optimized one of the core graph theory algorithms used throughout the software for performance improvement of an order of magnitude by using efficient data structures. I have also used machine learning techniques such as deep reinforcement learning to optimize tree-based data structures used to represent the orbits of groups acting on sets. My approach achieved state-of-the-art results compared to existing algorithms, primarily the Seress shallow Schreier tree algorithm in terms of memory usage and the quality of the generated tree. I have presented this research at the 50th southeastern international conference on combinatorics.
+
+
+### Languages and Tools
+
+![Sajeeb's github stats](https://github-readme-stats.vercel.app/api?username=RoySRC&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoySRC&langs_count=88&layout=compact&theme=radical)
+
 
 <!--
 **RoySRC/RoySRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
