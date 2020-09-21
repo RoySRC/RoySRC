@@ -12,6 +12,11 @@ I assisted in teaching the Operating Systems course at Colorado State University
 I was primarily involved in implementing new and optimizing existing group theory algorithms for the Orbiter computer algebra system. I optimized one of the core graph theory algorithms used throughout the software for performance improvement of an order of magnitude by using efficient data structures. I have also used machine learning techniques such as deep reinforcement learning to optimize tree-based data structures used to represent the orbits of groups acting on sets. My approach achieved state-of-the-art results compared to existing algorithms, primarily the Seress shallow Schreier tree algorithm in terms of memory usage and the quality of the generated tree. I have presented this research at the 50th southeastern international conference on combinatorics.
 
 
+### Some of my projects
+![Mini-Java Compiler](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=MiniJavaCompiler&theme=radical)
+![P2P network overlay](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=Structured-P2P-Network-Overlay&theme=radical)
+![Scalable Server Design](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=Scalable-Server-Design&theme=radical)
+
 ### Languages and Tools
 
 *NOTE: Top languages do not indicate my skill level or anything similar to that, it's a github metric of which languages I have the most code on github.*
