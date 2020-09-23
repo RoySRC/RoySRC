@@ -16,7 +16,8 @@ I was primarily involved in implementing new and optimizing existing group theor
 ![Mini-Java Compiler](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=MiniJavaCompiler&theme=radical)
 ![P2P network overlay](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=Structured-P2P-Network-Overlay&theme=radical)
 ![Scalable Server Design](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=Scalable-Server-Design&theme=radical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=orbiter&theme=radical)
+![Orbiter](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=orbiter&theme=radical)
+![CPPLOGGER](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=CPPLOGGER&theme=radical)
 
 ### Languages and Tools
 
