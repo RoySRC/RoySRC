@@ -13,7 +13,7 @@ I was primarily involved in implementing new and optimizing existing group theor
 
 
 ### Some of my projects
-![Mini-Java Compiler](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=MiniJavaCompiler&theme=radical)
+[![Mini-Java Compiler](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=MiniJavaCompiler&theme=radical)](https://github.com/RoySRC/MiniJavaCompiler)
 ![P2P network overlay](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=Structured-P2P-Network-Overlay&theme=radical)
 ![Scalable Server Design](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=Scalable-Server-Design&theme=radical)
 ![Orbiter](https://github-readme-stats.vercel.app/api/pin/?username=RoySRC&repo=orbiter&theme=radical)
