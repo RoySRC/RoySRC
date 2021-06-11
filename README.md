@@ -1,7 +1,15 @@
 ### Hi there, I'm Sajeeb <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a recent college graduate with a degree in Computer Science and Computational Mathematics. I am interested in applying machine learning techniques to algorithmic and structured data problems such as network graphs, sequences, images, and time-series data. I am also interested in the design of distributed systems, and cache-friendly, efficient, and scalable data structures and algorithms that reduce program runtime. Of particular interest are applications of these ideas to software engineering, compiler design, high-performance computing, data science, bioinformatics, natural language processing (NLP), anomaly detection, computer vision, and autonomous vehicles.
+I am a recent college graduate with a degree in Computer Science and Computational Mathematics. I am interested in applying machine learning techniques to algorithmic and structured data problems such as network graphs, sequences, images, and time-series data. I am also interested in the design of distributed systems, cache-friendly, efficient, and scalable data structures and algorithms that reduce program runtime. Of particular interest are applications of these ideas to software engineering, compiler design, high-performance computing, data science, bioinformatics, natural language processing (NLP), anomaly detection, computer vision, and autonomous vehicles.
 
+### Major Description
+A brief overview of my programs of study.
+
+#### Computational Mathematics
+ A program that focuses on the application of mathematics to the theory, architecture, and design of computers, computational techniques, and algorithms. Includes instruction in computer theory, cybernetics, numerical analysis, algorithm development, binary structures, combinatorics, advanced statistics, and related topics.
+
+#### Computer Science
+A program that focuses on computer theory, computing problems and solutions, and the design of computer systems and user interfaces from a scientific perspective. Includes instruction in the principles of computational science, computer development and programming, and applications to a variety of end-use situations.
 
 ### Work Experience
 
