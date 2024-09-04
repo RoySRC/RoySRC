@@ -1,11 +1,5 @@
 ### Hi, I'm Sajeeb <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img alt="Sent from Mailspring" width="0" height="0" style="border:0;width:0;height:0" src="https://ci3.googleusercontent.com/meips/ADKq_NYhHJLUaX7a4kn4UfMsMIk81rkSG7FSFa8L8MB69hPEAsCyU92XIThi_P42lpC6iM6LiHgrgT6ZiWcZubPwj5DUuURwuSAMO13Mr3EnROWKzk05vMcHvJUUdRLJI--FSWtdm6HJ-RPZx8nvZ7OYNGowB_3nfBbePYNvJorFk2aPzxVwTOFfU5QxAh23MVpieccaPE7-EY2vVcrjKu0hu9LSlddPUEQ=s0-d-e1-ft?trsuspmrk=1#https://link.getmailspring.com/open/82010C42-3412-4F2D-918F-F5EB97DAF319@getmailspring.com?me=481f8457&amp;recipient=cm95c2FqZWViNEBnbWFpbC5jb20%3D" class="CToWUd" data-bit="iit" known="0" jslog="138226; u014N:xr6bB; 53:WzAsMl0.">
 
-### Research Interests
-
-I am interested in building tools that allow us to measure the safety, trustworthiness, and fairness of AI systems for safety-critical, regulated, and scientific domains such as in biomedical and healthcare applications. I am also interested in creating AI systems that intrinsically satisfy the above conditions of safety, trustworthiness, and fairness when deployed to real-world applications. I am particularly interested in exploring ideas from programming languages and software engineering, such as neuro-symbolic programming, program verification, and program synthesis, to achieve this goal.
-
-I am also interested in the application and development of machine learning algorithms for algorithmic and structured data problems such as graphs, sequences, images, and time-series data. Of particular interest are applications of these ideas to solving problems in AI for science, computational drug design, healthcare, and biomedical informatics.
-
 ### Research Experience
 
 #### Software Engineer
@@ -35,6 +29,9 @@ I assisted in teaching the Operating Systems course at Colorado State University
 
 ![Sajeeb's github stats](https://github-readme-stats.vercel.app/api?username=RoySRC&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoySRC&langs_count=88&layout=compact&theme=radical)
+
+### Notes on how to succeed in academia
+1. [Ten rules for succeeding in academia](https://www.timeshighereducation.com/opinion/ten-rules-succeeding-academia-through-upward-toxicity)
 
 
 <!--
