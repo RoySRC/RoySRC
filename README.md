@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Welcome to my GitHub repository. If you'd like more information about me please [visit my website]([https://grabify.link/CB0P2M](https://roysrc.me/))
+Welcome to my GitHub repository. If you'd like more information about me please [visit my website](https://roysrc.me/)
